@@ -11,6 +11,7 @@
 int main(int argc, char *argv[]) {
 int x;
 scanf("%d", &x);
+//hello 
 if (x%500==0){
 	printf ("%d\n",x/500);
 }else{ 
